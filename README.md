@@ -1,7 +1,7 @@
 # Single layer Neural Network -- Multi-class classification
 ## Predict class of Iris plant using Neural Networks
 
-This project was an assignment made in the context of my Master studies
+This project is an assignment made in the context of my Master studies
 
 ### Technologies
 
